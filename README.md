@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Deepak Kamboj</h1>
 <h3 align="center"> A passionate AI/ML Engineer and Software Developer from Bothell, WA, USA</h3>
-<p align="center"><img  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Deepak Kamboj"></p>
+<p align="center"><img  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Deepak Kamboj" width="400"></p>
 
 I'm **Deepak Kamboj**, a Senior Software Engineer at Microsoft with a passion for AI/ML and Generative AI. I have over 23 years of experience in the IT industry, specializing in solution architecture, software development, and AI-powered automation.
 
