@@ -16,15 +16,6 @@ I'm **Deepak Kamboj**, a Senior Software Engineer at Microsoft with a passion fo
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new technologies and applying them to solve real-world problems.
 
-### Skills
-- **Programming Languages**: C#, ASP.NET, VB.NET, JavaScript, TypeScript
-- **Web Development**: React, AngularJS, NextJS, Bootstrap
-- **AI/ML**: OpenAI, AzureOpenAI, TensorFlow, PyTorch
-- **Cloud Technologies**: Microsoft Azure, Azure DevOps, AWS
-- **Databases**: SQL Server, Oracle, MySQL
-- **DevOps**: YAML, Git, CI/CD, PowerShell
-- **Tools & Technologies**: SharePoint, BizTalk Server, MS Dynamics CRM
-
 ### Education
 - **Punjab Technical University** (1997 - 2001)
   - B. Tech., Computer Science and Engineering
@@ -38,10 +29,24 @@ I'm **Deepak Kamboj**, a Senior Software Engineer at Microsoft with a passion fo
 - Using AI as Your SEO Assistant (LinkedIn)
 
 
-Feel free to connect with me on LinkedIn or check out my portfolio for more details about my work and experiences.
-
 ### Connect with me
+<p align="left">
+  <a href="https://twitter.com/deepakkamboj" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="deepakkamboj" height="40" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kambojdeepak/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="kambojdeepak" height="40" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/deepakkamboj" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="deepakkamboj" height="40" width="40"/>
+  </a>
+  <a href="https://github.com/deepakkamboj" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="deepakkamboj" height="40" width="40"/>
+  </a>
+</p>
 
+
+Feel free to connect with me on LinkedIn or check out my portfolio for more details about my work and experiences.
 ### Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
