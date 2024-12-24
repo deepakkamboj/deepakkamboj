@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there 👋, I'm Deepak Kamboj</h1>
 <h3 align="center"> A passionate AI/ML Engineer and Software Developer from Bothell, WA, USA</h3>
-## Hi there 👋
+<p align="center"><img  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Deepak Kamboj"></p>
 
 I'm **Deepak Kamboj**, a Senior Software Engineer at Microsoft with a passion for AI/ML and Generative AI. I have over 23 years of experience in the IT industry, specializing in solution architecture, software development, and AI-powered automation.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkamboj&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkamboj" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=deepakkamboj&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak Kamboj" /> </p>
 
 ### About Me
 - 🔭 I’m currently working on Microsoft PowerApps and Dynamics 365 Products.
@@ -12,7 +12,7 @@ I'm **Deepak Kamboj**, a Senior Software Engineer at Microsoft with a passion fo
 - 👯 I’m looking to collaborate on innovative AI and software development projects.
 - 🤔 I’m looking for help with exploring new AI/ML frameworks and tools.
 - 💬 Ask me about my journey in tech, my projects, or anything related to AI and software development.
-- 📫 How to reach me: deepak.kamboj@microsoft.com
+- 📫 How to reach me: deepak.kamboj@microsoft.com or deepakkamboj@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new technologies and applying them to solve real-world problems.
 
@@ -37,14 +37,10 @@ I'm **Deepak Kamboj**, a Senior Software Engineer at Microsoft with a passion fo
 - Chat with Your Data Using ChatGPT (LinkedIn)
 - Using AI as Your SEO Assistant (LinkedIn)
 
-### Projects
-- **Microsoft Dynamics CRM Product Development**: Led the development of features for Sales and Marketing verticals.
-- **Microsoft CFIT – Enterprise Payee Portal**: Architected and developed the Enterprise Payee Portal with configurable workflows.
 
 Feel free to connect with me on LinkedIn or check out my portfolio for more details about my work and experiences.
 
-### GitHub
-- GitHub Profile
+### Connect with me
 
 ### Languages and Tools:
 <p align="left">
