@@ -31,18 +31,20 @@ I'm **Deepak Kamboj**, a Senior Software Engineer at Microsoft with a passion fo
 
 ### Connect with me
 <p align="left">
-  <a href="https://twitter.com/deepakkamboj" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="deepakkamboj" height="40" width="40"/>
+   <a href="https://www.linkedin.com/in/kambojdeepak/" target="blank" style="width: 35px; text-decoration: none;">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="kambojdeepak" height="35" width="35"/>
   </a>
-  <a href="https://www.linkedin.com/in/kambojdeepak/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="kambojdeepak" height="40" width="40"/>
+    <a href="https://github.com/deepakkamboj" target="blank" style="width: 35px; text-decoration: none;">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="deepakkamboj" height="35" width="35"/>
   </a>
-  <a href="https://www.facebook.com/deepakkamboj" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="deepakkamboj" height="40" width="40"/>
+  <a href="https://twitter.com/kambojdeepak" target="blank" style="width: 35px; text-decoration: none;">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="deepakkamboj" height="35" width="35"/>
   </a>
-  <a href="https://github.com/deepakkamboj" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="deepakkamboj" height="40" width="40"/>
+ 
+  <a href="https://www.facebook.com/kambojdeepak" target="blank" style="width: 35px; text-decoration: none;">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="deepakkamboj" height="35" width="35"/>
   </a>
+
 </p>
 
 
